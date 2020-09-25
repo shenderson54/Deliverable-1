@@ -1,0 +1,33 @@
+h1 {
+    color: #20a8b4;
+    font-size: 40px;
+}
+h1 span {
+    color: #ff5c0f;
+    font-size: 40px;
+}
+
+nav {
+    background-color: #f2f2f2;
+    height: 70px;
+    display: block;
+    margin: 0;
+    padding: 0;    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    
+}
+{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: start;
+}
+
